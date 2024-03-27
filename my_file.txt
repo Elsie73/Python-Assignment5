@@ -1,0 +1,6 @@
+Line 1: Hello,world!I am Elsie.
+Line 2: I am 22
+Line 3: I love coding.
+Line 4: I live in Nairobi,Kenya.
+Line 5: This is my number 0721951188
+Line 6: Python is my favourite module.
